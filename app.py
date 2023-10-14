@@ -90,7 +90,7 @@ else:
         st.sidebar.error("Deflated Tire")
         st.sidebar.info("Your vehicle's tire is deflated. Consider taking a deeper look for possible wear and tears")
         st.sidebar.markdown(
-    f'<a href="https://Tire-And-Damage-minor.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: black; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Tire Damage Segmentation</a>',
+    f'<a href="https://tire-damage-minor.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: black; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Tire Damage Segmentation</a>',
     unsafe_allow_html=True
 )
 
@@ -98,7 +98,7 @@ else:
         st.sidebar.error("Deflated Tire")
         st.sidebar.info("Your vehicle's tire is deflated. Consider taking a deeper look for possible wear and tears")
         st.sidebar.markdown(
-    f'<a href="https://Tire-And-Damage-minor.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: black; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Tire Damage Segmentation</a>',
+    f'<a href="https://tire-damage-minor.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: black; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Tire Damage Segmentation</a>',
     unsafe_allow_html=True
 )
         
